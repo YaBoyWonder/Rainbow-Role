@@ -1,0 +1,11 @@
+{
+	"token": "BOT_TOKEN",
+	"servers": [
+		"ID 1ST SERVER",
+		"ID_2ND_SERVER_IF_YOU_WANT_IT"
+	],
+	"roleName": "THE_ROLE_NAME_YOU_WANT_TO_CHANGE_ITS_COLOR_FROM_HERE",
+	"colors": 12,
+	"speed": 60000,
+	"logging": true
+}
