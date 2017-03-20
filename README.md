@@ -1,3 +1,3 @@
-![Language](https://img.shields.io/badge/license-js-red.svg?style=flat-square)
+![Language](https://img.shields.io/badge/language-js-red.svg?style=flat-square)
 
 # Rainbow-Role
